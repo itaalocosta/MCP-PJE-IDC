@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tribunal-mcp": {
+      "command": "python3",
+      "args": ["/home/ubuntu/tribunal-mcp-server.py"],
+      "env": {
+        "PYTHONPATH": "/home/ubuntu"
+      }
+    }
+  }
+}
+
